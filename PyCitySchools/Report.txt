@@ -1,0 +1,24 @@
+Report
+Module 4 Challenge
+Analysis of Distic-Wide Standardized Test Results
+
+Summary:
+Analysis was conducted by using provided data that included the individual students' scores as well as a table of the current schools' basic information. 
+
+After generating a collective dataset for the district overall, the first priority of the data was to isolate the students' scores and associate their collective performance with their schools to create a breakdown of the data by each school for average scores in both exams as well as the passing rates for both exams and overall.
+
+The breakdown by school yielded some noticeable trends, especially after arranging the dataset to look at the best and worst performing schools in the district.
+
+Based on observations the dataset was further refined and broken down to display the results looking at specific factors. These included grade level, the school's budget considered against their student population, the size/student population of the schools overall, and lastly the difference between the standard District schools and the Charter schools.
+
+The report will draw conclusions from the tables that were yielded from these actions.
+
+
+Conclusions:
+
+Notably, the most obvious factor towards performance in these exams fell along the line of the type of the school. In the majority of cases Charter Schools had better overall scores; the top five performing schools by overall passing percentage were all Charter Schools while the five lowest performing schools were all District Schools.
+Specifically, District Schools' average reading scores from this exam are relatively close to the average scores of the charter schools, while there may be a sizeable difference in passing percentages for the reading exam, District Schools still have a passing rate in Reading over 80%.
+The shortcoming with district schools lies almost entirely with the Math exam scores, with the passing rate for District Schools only falling around 66.5%, almost 27% under the passing rate of Charter Schools.
+One of the qualities of the Charter Schools overall is that they more frequently have a smaller student population; only one Charter School in the district falls into the category of a large school with a student body over 2000. Meanwhile, all of the District Schools fall under the category of a large school; the smallest of those still having around 600 more students than the largest Charter School.
+The difference in sizes may be a contributing factor to the difference of performance, if that results in larger class sizes and less attention to students' needs in math classrooms.
+I would assert that the district should target reviewing the curriculum and student engagement in mathematics if it wants to improve overall metrics; with possibly a continued analysis of the mathematics programs at the District Schools to further inspect if there might be any identifiable points for improvement.
